@@ -8,12 +8,11 @@ import ContactForm from './components/Contact';
 function App() {
   const [categories] = useState([
     {
-      name: 'commercial',
-      description: 'Photos of grocery stores, food trucks, and other commercial projects',
+      name: 'kenai smiles',
+      description: 'Kenai turns and smiles for the camera!',
     },
-    { name: 'portraits', description: 'Portraits of people in my life' },
-    { name: 'food', description: 'Delicious delicacies' },
-    { name: 'landscape', description: 'Fields, farmhouses, waterfalls, and the beauty of nature' },
+    { name: 'kenai explores', description: 'Kenai is having the time of his life being so adventurous!' },
+    { name: 'kenai with friends', description: 'Kenai loves to be with his loving owner Britlee and their many friends!' },
   ]);
 
   const [currentCategory, setCurrentCategory] = useState(categories[0]);
