@@ -10,7 +10,121 @@ const PhotoList = ({ category }) => {
       name: 'Chef Kenai',
       category: 'adventures',
       description:
-        'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc ultricie'
+        'This is Kenai, Britlees half corgi, half dachsund.'
+    },
+    {
+      name: 'Chef Kenai',
+      category: 'adventures',
+      description:
+        'This is Kenai, Britlees half corgi, half dachsund.'
+    },
+    {
+      name: 'Chef Kenai',
+      category: 'adventures',
+      description:
+        'This is Kenai, Britlees half corgi, half dachsund.'
+    },
+    {
+      name: 'Chef Kenai',
+      category: 'adventures',
+      description:
+        'This is Kenai, Britlees half corgi, half dachsund.'
+    },
+    {
+      name: 'Chef Kenai',
+      category: 'adventures',
+      description:
+        'This is Kenai, Britlees half corgi, half dachsund.'
+    },
+    {
+      name: 'Chef Kenai',
+      category: 'adventures',
+      description:
+        'This is Kenai, Britlees half corgi, half dachsund.'
+    },
+    {
+      name: 'Chef Kenai',
+      category: 'adventures',
+      description:
+        'This is Kenai, Britlees half corgi, half dachsund.'
+    },
+    {
+      name: 'Chef Kenai',
+      category: 'adventures',
+      description:
+        'This is Kenai, Britlees half corgi, half dachsund.'
+    },
+    {
+      name: 'Chef Kenai',
+      category: 'adventures',
+      description:
+        'This is Kenai, Britlees half corgi, half dachsund.'
+    },
+    {
+      name: 'Chef Kenai',
+      category: 'adventures',
+      description:
+        'This is Kenai, Britlees half corgi, half dachsund.'
+    },
+    {
+      name: 'Chef Kenai',
+      category: 'friends',
+      description:
+        'This is Kenai, Britlees half corgi, half dachsund.'
+    },
+    {
+      name: 'Chef Kenai',
+      category: 'friends',
+      description:
+        'This is Kenai, Britlees half corgi, half dachsund.'
+    },
+    {
+      name: 'Chef Kenai',
+      category: 'friends',
+      description:
+        'This is Kenai, Britlees half corgi, half dachsund.'
+    },
+    {
+      name: 'Chef Kenai',
+      category: 'friends',
+      description:
+        'This is Kenai, Britlees half corgi, half dachsund.'
+    },
+    {
+      name: 'Chef Kenai',
+      category: 'friends',
+      description:
+        'This is Kenai, Britlees half corgi, half dachsund.'
+    },
+    {
+      name: 'Chef Kenai',
+      category: 'friends',
+      description:
+        'This is Kenai, Britlees half corgi, half dachsund.'
+    },
+    {
+      name: 'Chef Kenai',
+      category: 'smiles',
+      description:
+        'This is Kenai, Britlees half corgi, half dachsund.'
+    },
+    {
+      name: 'Chef Kenai',
+      category: 'smiles',
+      description:
+        'This is Kenai, Britlees half corgi, half dachsund.'
+    },
+    {
+      name: 'Chef Kenai',
+      category: 'smiles',
+      description:
+        'This is Kenai, Britlees half corgi, half dachsund.'
+    },
+    {
+      name: 'Chef Kenai',
+      category: 'smiles',
+      description:
+        'This is Kenai, Britlees half corgi, half dachsund.'
     },
   ]);
 
