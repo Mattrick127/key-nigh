@@ -7,8 +7,8 @@ const PhotoList = ({ category }) => {
 
   const [photos] = useState([
     {
-      name: 'Baby',
-      category: 'smiles',
+      name: 'Chef Kenai',
+      category: 'adventures',
       description:
         'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc ultricie'
     },
