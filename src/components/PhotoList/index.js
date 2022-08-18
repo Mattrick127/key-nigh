@@ -8,120 +8,6 @@ const PhotoList = ({ category }) => {
   const [photos] = useState([
     {
       name: 'Chef Kenai',
-      category: 'adventures',
-      description:
-        'This is Kenai, Britlees half corgi, half dachsund.'
-    },
-    {
-      name: 'Chef Kenai',
-      category: 'adventures',
-      description:
-        'This is Kenai, Britlees half corgi, half dachsund.'
-    },
-    {
-      name: 'Chef Kenai',
-      category: 'adventures',
-      description:
-        'This is Kenai, Britlees half corgi, half dachsund.'
-    },
-    {
-      name: 'Chef Kenai',
-      category: 'adventures',
-      description:
-        'This is Kenai, Britlees half corgi, half dachsund.'
-    },
-    {
-      name: 'Chef Kenai',
-      category: 'adventures',
-      description:
-        'This is Kenai, Britlees half corgi, half dachsund.'
-    },
-    {
-      name: 'Chef Kenai',
-      category: 'adventures',
-      description:
-        'This is Kenai, Britlees half corgi, half dachsund.'
-    },
-    {
-      name: 'Chef Kenai',
-      category: 'adventures',
-      description:
-        'This is Kenai, Britlees half corgi, half dachsund.'
-    },
-    {
-      name: 'Chef Kenai',
-      category: 'adventures',
-      description:
-        'This is Kenai, Britlees half corgi, half dachsund.'
-    },
-    {
-      name: 'Chef Kenai',
-      category: 'adventures',
-      description:
-        'This is Kenai, Britlees half corgi, half dachsund.'
-    },
-    {
-      name: 'Chef Kenai',
-      category: 'adventures',
-      description:
-        'This is Kenai, Britlees half corgi, half dachsund.'
-    },
-    {
-      name: 'Chef Kenai',
-      category: 'friends',
-      description:
-        'This is Kenai, Britlees half corgi, half dachsund.'
-    },
-    {
-      name: 'Chef Kenai',
-      category: 'friends',
-      description:
-        'This is Kenai, Britlees half corgi, half dachsund.'
-    },
-    {
-      name: 'Chef Kenai',
-      category: 'friends',
-      description:
-        'This is Kenai, Britlees half corgi, half dachsund.'
-    },
-    {
-      name: 'Chef Kenai',
-      category: 'friends',
-      description:
-        'This is Kenai, Britlees half corgi, half dachsund.'
-    },
-    {
-      name: 'Chef Kenai',
-      category: 'friends',
-      description:
-        'This is Kenai, Britlees half corgi, half dachsund.'
-    },
-    {
-      name: 'Chef Kenai',
-      category: 'friends',
-      description:
-        'This is Kenai, Britlees half corgi, half dachsund.'
-    },
-    {
-      name: 'Chef Kenai',
-      category: 'smiles',
-      description:
-        'This is Kenai, Britlees half corgi, half dachsund.'
-    },
-    {
-      name: 'Chef Kenai',
-      category: 'smiles',
-      description:
-        'This is Kenai, Britlees half corgi, half dachsund.'
-    },
-    {
-      name: 'Chef Kenai',
-      category: 'smiles',
-      description:
-        'This is Kenai, Britlees half corgi, half dachsund.'
-    },
-    {
-      name: 'Chef Kenai',
       category: 'smiles',
       description:
         'This is Kenai, Britlees half corgi, half dachsund.'
@@ -143,7 +29,7 @@ const PhotoList = ({ category }) => {
       <div className="flex-row">
         {currentPhotos.map((image, i) => (
           <img
-            src={require(`../../assets/kenai/${category}/${i}.jpg`).default}
+            src={require(`../../assets/small/${category}/${i}.jpg`).default}
             alt={image.name}
             className="img-thumbnail mx-1"
             onClick={() => toggleModal(image, i)}
