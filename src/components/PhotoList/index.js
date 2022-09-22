@@ -7,10 +7,104 @@ const PhotoList = ({ category }) => {
 
   const [photos] = useState([
     {
-      name: 'Chef Kenai',
+      name: 'Sailor Hat',
+      category: 'adventures',
+      description: 'Yup'
+    },
+    {
+      name: 'Sailor Hat',
+      category: 'adventures',
+      description: 'Yup'
+    },
+    {
+      name: 'Sailor Hat',
+      category: 'adventures',
+      description: 'Yup'
+    },
+    {
+      name: 'Sailor Hat',
+      category: 'adventures',
+      description: 'Yup'
+    },
+    {
+      name: 'Sailor Hat',
+      category: 'adventures',
+      description: 'Yup'
+    },
+    {
+      name: 'Sailor Hat',
+      category: 'adventures',
+      description: 'Yup'
+    },
+    {
+      name: 'Sailor Hat',
+      category: 'adventures',
+      description: 'Yup'
+    },
+    {
+      name: 'Sailor Hat',
+      category: 'adventures',
+      description: 'Yup'
+    },
+    {
+      name: 'Sailor Hat',
+      category: 'adventures',
+      description: 'Yup'
+    },
+    {
+      name: 'Sailor Hat',
+      category: 'adventures',
+      description: 'Yup'
+    },
+    {
+      name: 'Sailor Hat',
+      category: 'friends',
+      description: 'Yup'
+    },
+    {
+      name: 'Sailor Hat',
+      category: 'friends',
+      description: 'Yup'
+    },
+    {
+      name: 'Sailor Hat',
+      category: 'friends',
+      description: 'Yup'
+    },
+    {
+      name: 'Sailor Hat',
+      category: 'friends',
+      description: 'Yup'
+    },
+    {
+      name: 'Sailor Hat',
+      category: 'friends',
+      description: 'Yup'
+    },
+    {
+      name: 'Sailor Hat',
+      category: 'friends',
+      description: 'Yup'
+    },
+    {
+      name: 'Sailor Hat',
       category: 'smiles',
-      description:
-        'This is Kenai, Britlees half corgi, half dachsund.'
+      description: 'Yup'
+    },
+    {
+      name: 'Sailor Hat',
+      category: 'smiles',
+      description: 'Yup'
+    },
+    {
+      name: 'Sailor Hat',
+      category: 'smiles',
+      description: 'Yup'
+    },
+    {
+      name: 'Sailor Hat',
+      category: 'smiles',
+      description: 'Yup'
     },
   ]);
 
@@ -29,7 +123,7 @@ const PhotoList = ({ category }) => {
       <div className="flex-row">
         {currentPhotos.map((image, i) => (
           <img
-            src={require(`../../assets/small/${category}/${i}.jpg`).default}
+            src={require(`../../assets/small/${category}/${i}.jpg`)}
             alt={image.name}
             className="img-thumbnail mx-1"
             onClick={() => toggleModal(image, i)}
