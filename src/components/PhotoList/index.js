@@ -9,102 +9,102 @@ const PhotoList = ({ category }) => {
     {
       name: 'Sailor Hat',
       category: 'adventures',
-      description: 'Yup'
+      description: 'A smug smile from our smirky sailor!'
     },
     {
-      name: 'Sailor Hat',
+      name: 'Big Nose',
       category: 'adventures',
-      description: 'Yup'
+      description: 'A close up of Kenais honker.'
     },
     {
-      name: 'Sailor Hat',
+      name: 'Chillin like a Villain',
       category: 'adventures',
-      description: 'Yup'
+      description: 'Dogs think they belong in front of doors...'
     },
     {
-      name: 'Sailor Hat',
+      name: 'One Sleepy Dog',
       category: 'adventures',
-      description: 'Yup'
+      description: 'What a long day he has after doing whatever a Kenai does.'
     },
     {
-      name: 'Sailor Hat',
+      name: 'Car Drive',
       category: 'adventures',
-      description: 'Yup'
+      description: 'All the wonderful places in the world that havent been peed on.'
     },
     {
-      name: 'Sailor Hat',
+      name: 'Truly Sleepy Kenai',
       category: 'adventures',
-      description: 'Yup'
+      description: 'Damn, that DOES look like a comfortable chair. I dont blame him.'
     },
     {
-      name: 'Sailor Hat',
+      name: 'Snow Adventures!!!',
       category: 'adventures',
-      description: 'Yup'
+      description: 'Disclaimer: It IS snow. ...or is it?'
     },
     {
-      name: 'Sailor Hat',
+      name: 'Walkin on the Sidewalk!',
       category: 'adventures',
-      description: 'Yup'
+      description: 'Hes sticking his tongue at you subtley.'
     },
     {
-      name: 'Sailor Hat',
+      name: 'Upside Down Kenai',
       category: 'adventures',
-      description: 'Yup'
+      description: 'When the paws are like that, you know all is good.'
     },
     {
-      name: 'Sailor Hat',
+      name: 'Leaf Head',
       category: 'adventures',
-      description: 'Yup'
+      description: 'Fashion Statement!'
     },
     {
-      name: 'Sailor Hat',
+      name: 'Howdy',
       category: 'friends',
-      description: 'Yup'
+      description: 'Meet the long dog of the law.'
     },
     {
-      name: 'Sailor Hat',
+      name: 'Hammock Time!',
       category: 'friends',
-      description: 'Yup'
+      description: 'Two very happy friends!'
     },
     {
-      name: 'Sailor Hat',
+      name: 'Gotta take care of the baby!',
       category: 'friends',
-      description: 'Yup'
+      description: 'You have to be very careful when picking him up. If you go too fast, he might hate you for a good couple of weeks before he comes around again...personal experience.'
     },
     {
-      name: 'Sailor Hat',
+      name: 'Kenai is concerned',
       category: 'friends',
-      description: 'Yup'
+      description: '"You havent paid attention to me in five seconds, this is an OUTRAGE!!!"'
     },
     {
-      name: 'Sailor Hat',
+      name: 'Kenais Mail Express Service',
       category: 'friends',
-      description: 'Yup'
+      description: 'Free Shipping with purchase for extremely good owners!'
     },
     {
-      name: 'Sailor Hat',
+      name: 'Swag Kenai',
       category: 'friends',
-      description: 'Yup'
+      description: 'Someone lost a pair of shades at the party and they aint gettin em back!'
     },
     {
-      name: 'Sailor Hat',
+      name: 'Bat Ears Baby Kenai',
       category: 'smiles',
-      description: 'Yup'
+      description: 'Yeah...Life is good! What a cute pup!'
     },
     {
-      name: 'Sailor Hat',
+      name: 'Dark Side Kenai',
       category: 'smiles',
-      description: 'Yup'
+      description: '"I ran out of food" was said only once...and never again out of fear.'
     },
     {
-      name: 'Sailor Hat',
+      name: 'Photogenic AF Kenai',
       category: 'smiles',
-      description: 'Yup'
+      description: 'This should be on a magazine cover. Dog food, chew toys, and a tv series.'
     },
     {
-      name: 'Sailor Hat',
+      name: 'Dog in the Wild!',
       category: 'smiles',
-      description: 'Yup'
+      description: 'Surrounded by water without a care in the world! More exploring!!!'
     },
   ]);
 
