@@ -54,37 +54,46 @@ h6 {
 
 h1 {
   font-size: 2.25rem;
+  color: #000000;
 }
 
 h2 {
   font-size: 2rem;
+  color: #000000;
 }
 
 h3 {
   font-size: 1.75rem;
+  color: #000000;
 }
 
 h4 {
   font-size: 1.5rem;
+  color: #000000;
 }
 
 h5 {
   font-size: 1.25rem;
+  color: #000000;
 }
 
 h6 {
   font-size: 1rem;
+  color: #000000;
 }
 
 p {
   font-size: 1.1rem;
+  color: white;
   margin-top: 0;
+  background-color: #000000;
 }
 
 a {
   color: var(--tertiary);
   text-decoration: none;
   font-weight: bold;
+  color: #000000;
 }
 
 a:hover {
@@ -121,6 +130,7 @@ button[disabled] {
 }
 
 img {
+  padding: 10px;
   max-width: 100%;
 }
 

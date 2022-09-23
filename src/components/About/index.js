@@ -1,15 +1,14 @@
 import React from "react";
-import coverImage from '../../assets/cover/bowhat2.jpg';
+import coverImage from '../../assets/cover/2.jpg';
 function About() {
     return (
         <section className="my-5">
         <h1 id="about">Who am I?</h1>
-        <img src={coverImage} className="my-2" style={{ width: "100%" }} alt="cover" />
-        <div className="my-2">
-            <p>
-                MY NAME IS KENAI!!!
-            </p>
-        </div>
+            <article>
+                Yo yo yo, check it, it's yo boy KENAIIIII, coming at you live!!!
+                
+            <img src={coverImage} alt="cover" />
+            </article>
         </section>
     );
 }
